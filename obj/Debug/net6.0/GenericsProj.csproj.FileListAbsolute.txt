@@ -1,0 +1,14 @@
+C:\Users\neving\source\repos\GenericsProj\GenericsProj\bin\Debug\net6.0\GenericsProj.exe
+C:\Users\neving\source\repos\GenericsProj\GenericsProj\bin\Debug\net6.0\GenericsProj.deps.json
+C:\Users\neving\source\repos\GenericsProj\GenericsProj\bin\Debug\net6.0\GenericsProj.runtimeconfig.json
+C:\Users\neving\source\repos\GenericsProj\GenericsProj\bin\Debug\net6.0\GenericsProj.dll
+C:\Users\neving\source\repos\GenericsProj\GenericsProj\bin\Debug\net6.0\GenericsProj.pdb
+C:\Users\neving\source\repos\GenericsProj\GenericsProj\obj\Debug\net6.0\GenericsProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neving\source\repos\GenericsProj\GenericsProj\obj\Debug\net6.0\GenericsProj.AssemblyInfoInputs.cache
+C:\Users\neving\source\repos\GenericsProj\GenericsProj\obj\Debug\net6.0\GenericsProj.AssemblyInfo.cs
+C:\Users\neving\source\repos\GenericsProj\GenericsProj\obj\Debug\net6.0\GenericsProj.csproj.CoreCompileInputs.cache
+C:\Users\neving\source\repos\GenericsProj\GenericsProj\obj\Debug\net6.0\GenericsProj.dll
+C:\Users\neving\source\repos\GenericsProj\GenericsProj\obj\Debug\net6.0\refint\GenericsProj.dll
+C:\Users\neving\source\repos\GenericsProj\GenericsProj\obj\Debug\net6.0\GenericsProj.pdb
+C:\Users\neving\source\repos\GenericsProj\GenericsProj\obj\Debug\net6.0\GenericsProj.genruntimeconfig.cache
+C:\Users\neving\source\repos\GenericsProj\GenericsProj\obj\Debug\net6.0\ref\GenericsProj.dll
